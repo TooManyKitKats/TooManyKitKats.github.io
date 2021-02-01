@@ -1,0 +1,11 @@
+h1 {
+    font-family:"Arial", "Times New Roman";
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
